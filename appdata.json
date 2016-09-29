@@ -1,0 +1,1593 @@
+{
+  "appId" : "mo.eric.foodshop.xiangchuanguan",
+  "updateDate" : "2015-03-05 10:34:24",
+  "db" : [ ],
+  "menu" : {
+    "categories" : [ {
+      "name" : "酸辣粉",
+    "items" : [ {
+      "name" : "四川酸辣粉",
+      "price" : 19.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "窩筍酸辣粉",
+      "price" : 24.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "時菜酸辣粉",
+      "price" : 24.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蘿蔔酸辣粉",
+      "price" : 24.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "豆腐卜酸辣粉",
+      "price" : 24.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "土豆酸辣粉",
+      "price" : 24.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "金菇酸辣粉",
+      "price" : 26.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "雞肉酸辣粉",
+      "price" : 26.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "肉片酸辣粉",
+      "price" : 26.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "午餐肉酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "日本豆腐酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "肉醬酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "爽口魚蛋酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "香菇貢丸酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "手打牛丸酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "牛肉酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "肥牛酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "牛腩酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "鳥雞酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "排骨酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "肥腸酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "牛栢叶酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "野菌菇酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蠔仔酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "鴨紅酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "牛展酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "牛肚酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "黃喉酸辣粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "牛雜酸辣粉",
+      "price" : 30.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "芝士包心丸酸辣粉",
+      "price" : 30.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "三寶丸酸辣粉",
+      "price" : 30.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "鮮魷酸辣粉",
+      "price" : 30.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "墨魚丸酸辣粉",
+      "price" : 30.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "田雞酸辣粉",
+      "price" : 32.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ "可選擇：桂林米粉，紅薯粉，廣東米粉，龍口粉絲，珍珠米粉，河粉", "“出前一丁” 另加6元", "加底加7元，雙拼加8元", "(注:可選擇不辣，微辣，小辣，中辣，大辣)" ]
+  }, {
+    "name" : "干鍋",
+    "items" : [ {
+      "name" : "干鍋土豆腩肉",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋窩筍肉片",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋手撕包菜",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋茶樹菇臘肉",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋竹筍臘肉",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋田雞",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋牛雜",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋臘驢肉",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋茶樹菇肥腸",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋黃骨魚",
+      "price" : 72.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋南瓜牛肋骨",
+      "price" : 88.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋臘兔肉",
+      "price" : 88.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋魚頭",
+      "price" : 88.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋粟子雞(半隻)",
+      "price" : 88.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干鍋紫蘇桂花魚",
+      "price" : 98.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ ]
+  }, {
+    "name" : "香口椒鹽",
+    "items" : [ {
+      "name" : "椒鹽豆腐",
+      "price" : 35.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽日本豆腐",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽一口黃金豆腐",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽九吐魚",
+      "price" : 50.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽多春魚",
+      "price" : 50.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽雞中翼",
+      "price" : 50.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽荔浦芋片(只限台山店供應)",
+      "price" : 55.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽蓮藕片(只限台山店供應)",
+      "price" : 55.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽鮮魷",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽田雞",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽雞軟骨",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽鴨舌",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽海蝦",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽白飯魚",
+      "price" : 78.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "椒鹽軟殼蟹",
+      "price" : 88.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ ]
+  }, {
+    "name" : "水煮",
+    "items" : [ {
+      "name" : "水煮窩筍",
+      "price" : 40.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮雜菜野菌菇",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮金菇木耳",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮鴨紅",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮金菇日本豆腐",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮魚片",
+      "price" : 50.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "毛血旺",
+      "price" : 50.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮午餐肉",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮烏雞",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮肉片",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "酸菜魚片",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "detail" : null
+    }, {
+      "name" : "水煮牛肉",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮肥牛",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮黃喉",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮田雞",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮牛柏葉",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮肥腸",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮手打四寶丸",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮黃骨魚",
+      "price" : 78.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮鮮魷九吐魚",
+      "price" : 78.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "水煮桂花魚",
+      "price" : 90.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ "打底可選擇:白菜,青瓜,大豆芽,加蘿蔔8元,加窩筍8元,加金菇15元,加午餐肉15元,加日本豆腐15元,加木耳15元,加鴨紅15元 \n(全部金菇底30元,全午餐肉底30元,全日本豆腐底30元,全鴨紅底30元)", "可選擇: 微辣, 小辣, 中辣, 大辣" ]
+  }, {
+    "name" : "精美小炒",
+    "items" : [ {
+      "name" : "手撕包菜",
+      "price" : 35.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蒜蓉西生菜",
+      "price" : 35.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "酸辣土豆絲",
+      "price" : 35.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蒜蓉窩筍絲",
+      "price" : 38.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蒜蓉西蘭花",
+      "price" : 38.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蒜蓉白菜苔",
+      "price" : 38.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "酸辣藕片",
+      "price" : 38.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "翅湯浸豆苗",
+      "price" : 40.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "金銀蛋菠菜",
+      "price" : 40.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干煸四季豆",
+      "price" : 40.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "長豆角燒茄子",
+      "price" : 40.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "家常豆腐",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "豆鼓鯪魚炒麥菜",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "紅燒肉沫茄子",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "麻婆豆腐",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "酸豆角炒肉沫",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "虎皮尖椒",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "川式辣子雞",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "菜甫肉碎煎蛋",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "四季豆炒肉沫",
+      "price" : 42.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "芹菜悠縣香干",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "窩筍炒臘肉/肉片",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "老干媽炒雞腎",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "尖椒回鍋肉",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "銀杏百合炒蜜豆",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "醋溜蝦乾白菜",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "三絲爆炒豬耳",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "卜豆角炒臘肉",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "醬爆頭菜五花腩",
+      "price" : 52.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "酸菜炒肥腸",
+      "price" : 55.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "木耳百合炒肉片",
+      "price" : 55.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "宮保雞丁",
+      "price" : 55.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "潮式蠔仔餅",
+      "price" : 55.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "番茄牛肉煮蛋",
+      "price" : 55.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "爆炒肥腸",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "爆炒蒜苔鮮豬肚",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "荷芹炒鮮魷",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "野山椒炒牛肉",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "孜然牛肉",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "泡椒田雞",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "雙菇小雞炖土豆",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "白飯魚煎蛋",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "干煸肥腸",
+      "price" : 68.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "剁椒蒸魚頭(只限台山店供應)",
+      "price" : 75.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "薑蔥美極焗墨魚仔",
+      "price" : 75.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "紅燒豆腐魚頭",
+      "price" : 78.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "紅燒茄子牛肋骨",
+      "price" : 78.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "紅燒火腩桂花魚",
+      "price" : 90.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "紅燒桂花魚",
+      "price" : 90.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ ]
+  }, {
+    "name" : "涼拌",
+    "items" : [ {
+      "name" : "涼拌皮蛋(1隻)",
+      "price" : 5.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌皮蛋(1份)",
+      "price" : 25.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌青瓜",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌海帶絲",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌川北涼粉",
+      "price" : 28.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌窩筍絲",
+      "price" : 38.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌土豆絲",
+      "price" : 38.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌青瓜皮蛋",
+      "price" : 38.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌海帶金菇",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌木耳",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌三絲",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌海蜇",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌魚皮",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "紅油豬耳",
+      "price" : 45.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "麻辣鷄腳",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蒜泥白肉",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌黃喉",
+      "price" : 55.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "夫妻肺片",
+      "price" : 50.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌牛栢葉",
+      "price" : 50.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "涼拌牛展",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "麻辣口水雞(半隻)",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "麻辣口水雞(壹隻)",
+      "price" : 110.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "沙薑雞(半隻)",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "沙薑雞(壹隻)",
+      "price" : 110.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蔥油雞(半隻)",
+      "price" : 58.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蔥油雞(半隻)",
+      "price" : 110.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "海蜇手撕雞(半隻)",
+      "price" : 80.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "粉皮手撕雞(半隻)",
+      "price" : 80.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ ]
+  }, {
+    "name" : "生滾靚湯",
+    "items" : [ {
+      "name" : "蕃茄肉片豆腐湯",
+      "price" : 60.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "黃骨魚當歸湯",
+      "price" : 88.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "芫茜魚頭豆腐湯",
+      "price" : 88.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "滋補藥材雞湯(半隻)",
+      "price" : 98.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ ]
+  }, {
+    "name" : "甜品",
+    "items" : [ {
+      "name" : "脆炸奶油饅頭(半打)",
+      "price" : 32.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "香炸南瓜餅(8個)",
+      "price" : 35.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "香芋地瓜丸(8個)",
+      "price" : 35.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "拔絲地瓜",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "拔絲芋頭",
+      "price" : 48.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ ]
+  }, {
+    "name" : "酒水",
+    "items" : [ {
+      "name" : "維他蒸餾水",
+      "price" : 8.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "罐裝檸檬茶",
+      "price" : 9.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "罐裝菊花茶",
+      "price" : 9.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "罐裝忌廉",
+      "price" : 9.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "罐裝可樂",
+      "price" : 9.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "罐裝雪碧",
+      "price" : 9.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "罐裝橙汁",
+      "price" : 9.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "罐裝提子汁",
+      "price" : 9.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "王老吉",
+      "price" : 10.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "蜜棗羅漢果",
+      "price" : 13.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "鮮磨豆漿",
+      "price" : 13.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "鮮榨蔗汁",
+      "price" : 13.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "靈芝雞骨草",
+      "price" : 13.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "竹庶茅根",
+      "price" : 13.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "青島啤酒",
+      "price" : 15.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "健力士啤酒",
+      "price" : 18.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    }, {
+      "name" : "藍妹啤酒",
+      "price" : 25.0,
+      "photo" : null,
+      "photoName" : null,
+      "remark" : null,
+        "pos" : 0,
+      "detail" : null
+    } ],
+    "remarks" : [ ]
+    } ],
+    "updateDate" : null
+  },
+  "hotFoods" : [ {
+    "name" : "白飯魚煎蛋",
+    "price" : 68,
+    "photo" : null,
+    "photoName" : "hotfood1.png",
+    "remark" : null,
+        "pos" : 0,
+    "detail" : null
+ },
+ {
+    "name" : "水煮田雞",
+    "price" : 60,
+    "photo" : null,
+    "photoName" : "hotfood2.png",
+    "remark" : null,
+        "pos" : 0,
+	"detail" : null
+ },
+ {
+    "name" : "肥腸酸辣粉",
+    "price" : 28,
+    "photo" : null,
+    "photoName" : "hotfood3.png",
+    "remark" : null,
+        "pos" : 0,
+    "detail" : null
+ },
+ {
+    "name" : "宫保雞丁",
+    "price" : 55,
+    "photo" : null,
+    "photoName" : "hotfood4.png",
+    "remark" : null,
+        "pos" : 0,
+    "detail" : null
+ },
+ {
+    "name" : "涼拌海帶金菇",
+    "price" : 45,
+    "photo" : null,
+    "photoName" : "hotfood5.png",
+    "remark" : null,
+        "pos" : 0,
+    "detail" : null
+ } 
+ ]
+}

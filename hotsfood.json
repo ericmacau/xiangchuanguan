@@ -1,0 +1,30 @@
+{
+    "items" :
+[
+ {
+    "name" : "白飯魚煎蛋",
+    "price" : 68,
+    "photo" : "hotfood1.png"
+ },
+ {
+    "name" : "水煮田雞",
+    "price" : 60,
+    "photo" : "hotfood2.png"
+ },
+ {
+    "name" : "肥腸酸辣粉",
+    "price" : 28,
+    "photo" : "hotfood3.png"
+ },
+ {
+    "name" : "宫保雞丁",
+    "price" : 55,
+    "photo" : "hotfood4.png"
+ },
+ {
+    "name" : "涼拌海帶金菇",
+    "price" : 45,
+    "photo" : "hotfood5.png"
+ },
+ ]
+}
